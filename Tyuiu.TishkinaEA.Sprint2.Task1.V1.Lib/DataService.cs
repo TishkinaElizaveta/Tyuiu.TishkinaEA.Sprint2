@@ -9,8 +9,8 @@ namespace Tyuiu.TishkinaEA.Sprint2.Task1.V1.Lib
             bool[] result = new bool[6];
 
             // Выполняем операции с нужными результатами
-            result[0] = (a == b);     // a == b     -> false
-            result[1] = (a != b);     // a != b     -> true
+           !result[0] = (a == b);     // a == b     -> false
+           !result[1] = (a != b);     // a != b     -> true
             result[2] = (a < c);      // a < c      -> true
             result[3] = (c > d);      // c > d      -> false
             result[4] = (a <= b);     // a <= b     -> true
