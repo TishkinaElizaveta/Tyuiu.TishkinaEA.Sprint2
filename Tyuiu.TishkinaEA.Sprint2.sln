@@ -19,6 +19,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.TishkinaEA.Sprint2.Ta
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task1", "Task1", "{36D591C7-65C7-A0D1-1CBC-10CDE441BDC8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.TishkinaEA.Sprint2.Task2.V7.Lib", "Tyuiu.TishkinaEA.Sprint2.Task2.V7.Lib\Tyuiu.TishkinaEA.Sprint2.Task2.V7.Lib.csproj", "{A3400F67-A3E6-4FAF-9988-A1C9E420EE11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.TishkinaEA.Sprint2.Task2.V7", "Tyuiu.TishkinaEA.Sprint2.Task2.V7\Tyuiu.TishkinaEA.Sprint2.Task2.V7.csproj", "{9E3F5652-8346-4F4D-8B55-043C52BF084A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.TishkinaEA.Sprint2.Task2.V7.Test", "Tyuiu.TishkinaEA.Sprint2.Task2.V7.Test\Tyuiu.TishkinaEA.Sprint2.Task2.V7.Test.csproj", "{39CFF034-6962-42CB-A732-7E9823033EDD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -49,6 +55,18 @@ Global
 		{740F9B28-0046-4C32-84A7-D0C5F99113BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{740F9B28-0046-4C32-84A7-D0C5F99113BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{740F9B28-0046-4C32-84A7-D0C5F99113BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3400F67-A3E6-4FAF-9988-A1C9E420EE11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3400F67-A3E6-4FAF-9988-A1C9E420EE11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3400F67-A3E6-4FAF-9988-A1C9E420EE11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3400F67-A3E6-4FAF-9988-A1C9E420EE11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E3F5652-8346-4F4D-8B55-043C52BF084A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E3F5652-8346-4F4D-8B55-043C52BF084A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E3F5652-8346-4F4D-8B55-043C52BF084A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E3F5652-8346-4F4D-8B55-043C52BF084A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39CFF034-6962-42CB-A732-7E9823033EDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39CFF034-6962-42CB-A732-7E9823033EDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39CFF034-6962-42CB-A732-7E9823033EDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39CFF034-6962-42CB-A732-7E9823033EDD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
